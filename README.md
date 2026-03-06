@@ -1,7 +1,6 @@
 <div align="center">
   <br>
-  <img src="![1772793770806263470312348239536](https://github.com/user-attachments/assets/1da2fa26-2a50-420d-8a06-354ce6c12c9d)
-" alt="ClassicChess Banner" width="600">
+![Alt text](https://example.com/path/to/image.jpg)
   <br>
 
 # ♔ ClassicChess – The Royal Game
