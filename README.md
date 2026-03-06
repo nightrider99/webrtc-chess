@@ -515,7 +515,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [MD Sohave]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
